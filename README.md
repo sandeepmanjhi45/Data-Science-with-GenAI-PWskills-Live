@@ -13,7 +13,7 @@ Live class notes and assignment solutions for the PW Skills Data Science with Ge
 
 | # | Module | Class Notes | Assignment |
 |---|--------|:-----------:|:----------:|
-| 1 | Python to Visualization | ✅ [Notebook](Class_Notes/Module_01_Python_to_Visualization.ipynb) | ⬜ |
+| 1 | Python to Visualization | ✅ [Notebook](Class_Notes/Module_01_Python_to_Visualization.ipynb) | 🟡 [Assignments](Assignments/) |
 
 ## Module 1 topics
 Python basics, data structures, functions, OOP, NumPy, Pandas, and data visualization (Matplotlib, Seaborn, Plotly).
